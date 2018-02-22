@@ -1,19 +1,19 @@
 #include<stdio.h>
 int main()
 {
-int a,b,c;
+int d,e,f;
 scanf("%d %d %d",&a,&b,&c)
 if(a>b && a>c)
 {
-printf(" a is greater");
+printf(" d is greater");
 }
 else if(b>a && b>c)
 {
-printf("b is greater");
+printf("e is greater");
 }
 else
 {
-printf("c is greater");
+printf("f is greater");
 }
 return 0;
 }
