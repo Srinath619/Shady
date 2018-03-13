@@ -1,7 +1,7 @@
 n=int(input())
-a=list()
+b=list()
 s=input()
-a=s.split(" ")
+b=s.split(" ")
 
-a.sort()
-print(a) 
+b.sort()
+print(b) 
